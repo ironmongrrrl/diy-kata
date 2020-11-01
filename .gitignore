@@ -4,3 +4,5 @@ node_modules/
 *.solution.js
 *.solution.test.js
 package-lock.json
+.eslintignore
+.eslintrc
