@@ -1,3 +1,5 @@
+// Nice use of ternary operator!
+
 const booleanToWord = boolean => {
     return boolean ? 'Yes' : 'No';
 };
