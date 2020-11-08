@@ -1,3 +1,5 @@
+// For bonus points - how could this be extended to work with non-integer years, like 1.5?
+
 const humanCatDogYears = number => {
     if (number === 1) {
         let catYears = 15;
